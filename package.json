@@ -1,0 +1,21 @@
+{
+  "name": "http2udpproxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hudp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshkbhat/http2udpproxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ganeshkbhat/http2udpproxy/issues"
+  },
+  "homepage": "https://github.com/ganeshkbhat/http2udpproxy#readme"
+}
